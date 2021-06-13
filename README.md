@@ -1,2 +1,2 @@
-Demo for GitHub
-Git Bash integration.
+Demo for GitHub.
+GitBash integration.
